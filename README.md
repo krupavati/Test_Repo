@@ -5,3 +5,4 @@ changes made locally
 changes made after pushing
 modified the code
 changes made remotely and commiting it
+changes made remotely for git pull
